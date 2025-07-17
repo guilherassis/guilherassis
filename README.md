@@ -35,7 +35,7 @@ Com anos de experiência liderando projetos em empresas como **iFood**, **Banco 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
 | **Automação ECM com Solidfy** | Script Python que cria documentos e anexa arquivos automaticamente em um ECM. | Python, API REST |
-| **Portal de Fornecedores** *(em construção)* | Plataforma web que conecta operadores de food service com múltiplos fornecedores. | React, Node, Docker |
+| **Portal de Fornecedores** | Plataforma web que conecta operadores de food service com múltiplos fornecedores. | React, Node, Docker |
 | **Migração e Comparativo Jira** | Script que compara projetos entre ambientes Jira Cloud para garantir consistência após migrações. | Python, Jira API |
 | **Robô de Integração com Jira** | Automação para criação de issues, transições e atualizações a partir de eventos externos. | Python, ScriptRunner, Webhooks |
 | **Dashboard de BI Jira + Superset** | Pipeline de dados com Jira → MySQL → Superset. | Python, SQL, Superset |
