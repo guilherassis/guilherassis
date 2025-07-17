@@ -73,7 +73,7 @@
 ## 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="mailto:guilherme@robodev.com.br" title="Gmail">
+  <a href="mailto:guilher.assis@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/guilhermeassisrosa/" title="LinkedIn">
