@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Guilherme%20Assis&fontAlign=40&fontAlignY=35&color=0:FF00A6,100:350048&fontColor=ffffff&fontSize=40&desc=Especialista%20em%20Automação%20e%20Integrações&descSize=20&descAlign=40&descAlignY=60"/>
-
 # 🤖 Olá, eu sou o Guilherme Assis!
 
 <p align="left">
@@ -12,31 +10,31 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Graduado em Sistemas de Informação + MBA em Business Intelligence  
-- 🧪 Certificado em Testes (CTFL - Certified Tester Foundation Level)  
-- 💼 Experiência com iFood, Banco Inter, Compass UOL, Oi e outros  
-- 📦 Especialista em Jira Software, Jira Service Management, ScriptRunner e Assets  
-- ⚙️ Experiência com automações e integrações com Interfy, Monday, ERPs e CRMs  
-- 🚀 Crio projetos que automatizam processos repetitivos e aumentam a eficiência operacional  
-- 🧠 Acredito que **automação é estratégia de negócio**  
+- 🎓 Graduado em Sistemas de Informação + MBA em Business Intelligence
+- 🧪 Certificado em Testes (CTFL - Certified Tester Foundation Level)
+- 💼 Experiência com iFood, Banco Inter, Compass UOL, Oi e outros
+- 📦 Especialista em Jira Software, Jira Service Management, ScriptRunner e Assets
+- ⚙️ Experiência com automações e integrações com Interfy, Monday, ERPs e CRMs
+- 🚀 Crio projetos que automatizam processos repetitivos e aumentam a eficiência operacional
+- 🧠 Acredito que **automação é estratégia de negócio**
 
 ---
 
 ## 📚 Atualmente estudo e aplico
 
-- RPA com UiPath, Automation Anywhere e Power Automate  
-- Arquitetura e APIs REST em Node.js e Python (Flask/FastAPI)  
-- Integrações com ferramentas corporativas (Jira, Monday, Interfy)  
-- BI com Python + SQL + Apache Superset / Power BI  
-- Testes automatizados com Ruby (Capybara), Selenium e Postman  
+- RPA com UiPath, Automation Anywhere e Power Automate
+- Arquitetura e APIs REST em Node.js e Python (Flask/FastAPI)
+- Integrações com ferramentas corporativas (Jira, Monday, Interfy)
+- BI com Python + SQL + Apache Superset / Power BI
+- Testes automatizados com Ruby (Capybara), Selenium e Postman
 
 ---
 
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/guilherassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherassis&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherassis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherassis&layout=compact&langs_count=6&theme=radical"/>
 </a>
 
 ---
@@ -45,11 +43,11 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [**Automação ECM com Solidfy**](https://github.com/guilherassis/automacao-solidfy) | Criação automática de documentos e upload de arquivos via API. | Python, API REST |
-| [**Portal de Fornecedores**](https://github.com/guilherassis/portal-fornecedores) *(em construção)* | Plataforma web para conectar operadores de food service a fornecedores. | React, Node.js, Docker |
-| [**Robô de Integração com Jira**](https://github.com/guilherassis/jira-integrador) | Automações inteligentes de criação e transição de issues com APIs e ScriptRunner. | Python, Jira API, ScriptRunner |
-| [**Comparativo de Projetos Jira**](https://github.com/guilherassis/jira-project-diff) | Ferramenta que compara ambientes Jira Cloud após migração. | Python |
-| [**BI com Jira + Superset**](https://github.com/guilherassis/jira-bi-superset) | Coleta, armazenamento e visualização de métricas com Superset. | Python, SQL, Superset |
+| **Automação ECM com Solidfy** | Criação automática de documentos e upload de arquivos via API. | Python, API REST |
+| **Portal de Fornecedores** *(em construção)* | Plataforma web para conectar operadores de food service a fornecedores. | React, Node.js, Docker |
+| **Robô de Integração com Jira** | Automações inteligentes de criação e transição de issues com APIs e ScriptRunner. | Python, Jira API, ScriptRunner |
+| **Comparativo de Projetos Jira** | Ferramenta que compara ambientes Jira Cloud após migração. | Python |
+| **BI com Jira + Superset** | Coleta, armazenamento e visualização de métricas com Superset. | Python, SQL, Superset |
 
 ---
 
@@ -85,18 +83,19 @@
 
 ---
 
+<!--
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilherassis.guilherassis&left_color=FF00A6&right_color=350048" width="120" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilhermeassisdev.guilhermeassisdev&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
+-->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherassis&bg_color=0a0a0a&color=FF00A6&line=FF5AE6&point=ffffff&area=true&hide_border=true" />
-  <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=guilherassis&theme=tokyonight)](https://git.io/streak-stats)
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guilherassis&theme=tokyonight" alt="GitHub Streak" /></a>
-  <img src="https://streak-stats.demolab.com?user=guilherassis&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=guilherassis&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" />
+  
+  [![Guilherme Assis github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherassis&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=guilherassis&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=guilherassis&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF00A6,100:350048"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
