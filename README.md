@@ -92,6 +92,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherassis&bg_color=0a0a0a&color=FF00A6&line=FF5AE6&point=ffffff&area=true&hide_border=true" />
   <br/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=guilherassis&theme=tokyonight)](https://git.io/streak-stats)
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guilherassis&theme=tokyonight" alt="GitHub Streak" /></a>
   <img src="https://streak-stats.demolab.com?user=guilherassis&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" />
   <br/>
