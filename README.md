@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Guilherme%20Assis&fontAlign=40&fontAlignY=35&color=0:e61c9b,100:10002B&fontColor=ffffff&fontSize=40&desc=Especialista%20em%20Automação%20e%20Integrações&descSize=20&descAlign=40&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Guilherme%20Assis&fontAlign=40&fontAlignY=35&color=0:FF00A6,100:350048&fontColor=ffffff&fontSize=40&desc=Especialista%20em%20Automação%20e%20Integrações&descSize=20&descAlign=40&descAlignY=60"/>
 
 # 🤖 Olá, eu sou o Guilherme Assis!
 
@@ -35,8 +35,8 @@
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/guilherassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherassis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherassis&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherassis&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
 
 ---
@@ -86,15 +86,15 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilherassis.guilherassis&left_color=darkviolet&right_color=orchid" width="120" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guilherassis.guilherassis&left_color=FF00A6&right_color=350048" width="120" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherassis&bg_color=0d1117&color=e61c9b&line=7b1fa2&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherassis&bg_color=0a0a0a&color=FF00A6&line=FF5AE6&point=ffffff&area=true&hide_border=true" />
   <br/>
-  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=guilherassis&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=guilherassis&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=guilherassis&theme=radical&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=guilherassis&theme=tokyonight&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF00A6,100:350048"/>
